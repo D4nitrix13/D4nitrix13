@@ -1,6 +1,6 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
-<!-- GitHub: https://github.com/DanielBenjaminPerezMoralesDev13 -->
-<!-- Gitlab: https://gitlab.com/DanielBenjaminPerezMoralesDev13 -->
+<!-- GitHub: https://github.com/D4nitrix13 -->
+<!-- Gitlab: https://gitlab.com/D4nitrix13 -->
 <!-- Correo electrónico: danielperezdev@proton.me -->
 
 <p align="center" width="300">
@@ -8,15 +8,15 @@
  <h3 align="center">¡Freelance developer!</h3>
 </p>
 
-<a href="https://github.com/DanielBenjaminPerezMoralesDev13/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DanielBenjaminPerezMoralesDev13&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" />
+<a href="https://github.com/D4nitrix13/github-readme-stats">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=D4nitrix13&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" />
 </a>
 
 <br/>
 <br/>
 
-<a href="https://github.com/DanielBenjaminPerezMoralesDev13/convoychat">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBenjaminPerezMoralesDev13&layout=compact&langs_count=8&card_width=320&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" />
+<a href="https://github.com/D4nitrix13/convoychat">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=D4nitrix13&layout=compact&langs_count=8&card_width=320&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" />
 </a>
 
 ## **Social networks**
